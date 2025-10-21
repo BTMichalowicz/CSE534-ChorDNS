@@ -1,6 +1,6 @@
-certifi==2020.11.8
+certifi==2023.7.22
 cffi==1.14.4
-joblib==0.17.0
+joblib==1.2.0
 numpy==1.19.4
 pycparser==2.20
 pydistalgo==1.0.12
